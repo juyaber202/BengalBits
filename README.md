@@ -1,0 +1,2 @@
+# BengalBits
+Discord Music Bot
